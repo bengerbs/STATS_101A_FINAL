@@ -1,4 +1,4 @@
-# STATS_101A_FINAL
+# STATS 101A FINAL
 
 ## Problem Statement
 
